@@ -1,0 +1,20 @@
+{
+  "name": "backend_setup",
+  "version": "1.0.0",
+  "description": "backend setup start",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "node",
+    "JavaScript"
+  ],
+  "author": "Arbaz Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
+}
